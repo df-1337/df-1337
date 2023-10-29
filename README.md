@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @df-1337
-- 👀 I’m interested in AI, NeutrinoVoltaic, 
+- 👀 I’m interested in AI, NeutrinoVoltaic, Networking
 - 🌱 I’m currently learning more about life
 - 💞️ I’m looking to collaborate on anything useful
 - 📫 How to reach me post@dirk-f.de
